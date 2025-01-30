@@ -1,0 +1,2 @@
+Write Operation: Ahmedabad is India's first UNESCO World Heritage City!
+Append Operation: Ahmedabad is also famous for its delicious street food!
